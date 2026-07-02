@@ -1,5 +1,0 @@
-Author:    Language:  Upload:           Platform:        Difficulty:  Quality:  Arch:
-Mazzotti   C/C++      2026-06-24 13:42  Unix/linux etc.  3.0          5.0       x86-64
-
-Description
-Try to write a keygen or just find working password for this little program. DO NOT DELETE file bits.mazz IT IS REQUIRED FOR MY KEYGEN TO WORK. Good luck!
